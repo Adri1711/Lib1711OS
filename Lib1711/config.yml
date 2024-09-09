@@ -1,0 +1,10 @@
+#################################################################
+#						   Lib1711		  			    		#
+#						Configuration							#
+#################################################################
+
+#Allow the patch for potions to avoid potion bug when parsing inventory.
+patchPotions: true
+
+
+patchNames: true
