@@ -128,6 +128,7 @@ public class API1711 {
 				apiVersionada = new API1711v1_21_R1(id, pl);
 				break;
 			default:
+				apiVersionada = new API1711v1_21_R1(id, pl);
 				break;
 			}
 		}
